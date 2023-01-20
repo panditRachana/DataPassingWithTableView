@@ -13,6 +13,7 @@
 		8076B8DB2918BB6500A760D6 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 8076B8D92918BB6500A760D6 /* Main.storyboard */; };
 		8076B8DD2918BB6700A760D6 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 8076B8DC2918BB6700A760D6 /* Assets.xcassets */; };
 		8076B8E02918BB6700A760D6 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 8076B8DE2918BB6700A760D6 /* LaunchScreen.storyboard */; };
+		8076B8E82918C2C500A760D6 /* VC2.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8076B8E72918C2C500A760D6 /* VC2.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		8076B8DC2918BB6700A760D6 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		8076B8DF2918BB6700A760D6 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		8076B8E12918BB6700A760D6 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		8076B8E72918C2C500A760D6 /* VC2.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = VC2.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -60,6 +62,7 @@
 				8076B8D52918BB6500A760D6 /* SceneDelegate.swift */,
 				8076B8D72918BB6500A760D6 /* ViewController.swift */,
 				8076B8D92918BB6500A760D6 /* Main.storyboard */,
+				8076B8E72918C2C500A760D6 /* VC2.swift */,
 				8076B8DC2918BB6700A760D6 /* Assets.xcassets */,
 				8076B8DE2918BB6700A760D6 /* LaunchScreen.storyboard */,
 				8076B8E12918BB6700A760D6 /* Info.plist */,
@@ -141,6 +144,7 @@
 				8076B8D82918BB6500A760D6 /* ViewController.swift in Sources */,
 				8076B8D42918BB6500A760D6 /* AppDelegate.swift in Sources */,
 				8076B8D62918BB6500A760D6 /* SceneDelegate.swift in Sources */,
+				8076B8E82918C2C500A760D6 /* VC2.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
